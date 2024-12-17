@@ -1,0 +1,5 @@
+{"level":"info","message":"{\"method\":\"GET\",\"url\":\"/teas\",\"status\":\"200\",\"responseTime\":\"2.750\\n\"}","timestamp":"2024-12-16T06:56:54.553Z"}
+{"level":"info","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"0.446\\n\"}","timestamp":"2024-12-16T06:57:08.853Z"}
+{"level":"info","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"0.221\\n\"}","timestamp":"2024-12-16T06:57:50.317Z"}
+{"level":"info","message":"POST","timestamp":"2024-12-16T07:03:55.748Z"}
+{"level":"info","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"6.085\\n\"}","timestamp":"2024-12-16T07:03:55.756Z"}
